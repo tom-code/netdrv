@@ -1,10 +1,9 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+minimalistic network interface template
 
 
-
-### How do I get set up? ###
+### use steps ###
 * make
 * insmod ./n1.ko
 * ip link add type tx
